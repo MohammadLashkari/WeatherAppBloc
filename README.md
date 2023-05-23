@@ -1,6 +1,6 @@
 # Weather App With Bloc
 
-## Flutter Weather Application with BLoC Pattern with API calling and JSON parsing
+### Flutter Weather Application with BLoC Pattern with API calling and JSON parsing
 
 
 |              App Preview             |  
