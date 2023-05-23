@@ -1,16 +1,8 @@
-# weather_cubit
+# Weather App With Bloc
 
-A new Flutter project.
+## Flutter Weather Application with BLoC Pattern with API calling and JSON parsing
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+|              App Preview             |  
+| :----------------------------------: | 
+| <img src="https://github.com/MohammadLashkari/todo-app/assets/112802776/6ca1201f-8b2d-4885-9846-58d4b95e8d5d" width="350"></a> |
